@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thinkxcloud",
+  "private_key_id": "49a38641ee7f2ad6f10bbbd1e25a30cfc4846a84",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCVKSgVftvtMlCn\ngSNDLTk4rbstk9eYJ1wXzJi6gUrCpKFbSbpIkRtBliw26BJlIc2UaNg/WTQ0AaxU\nvc6j7l3D9uHSIB46KCz1d9tBdUFscPjnHEeplEQj+N30v961CFswZDAgtQMt/58R\nj7RbjiMEItXyweM6XcGuXjDVAdADv3GPJ6Qhg5wNzkX2CfBv+IvNOm+/If51VyYX\naeHuO4jWOFIh7OPsqgQewwJTKLP4ZEBwpF0d6E/CN5N4RFuRcBMiQS42n+YHqaDF\nMa0uTpe0nCa70rYWqJbfQSJyMQ1bRj0xuL4F8pu31rVxVNXyJ/pJbHasw0lf0c7a\nU/yTp6nHAgMBAAECggEAQAzyR3i4G7zVYXhUmg4bWjlP/RxVIeMU6qtSkhPe9IIZ\nP8gDFBIrcBh6WAGDlKXVT3tOELXPct2dEK6Iw2AiJ3omMkLUeAi0dZvILO2a8GP6\nndNI+orOT9wYA3c4vOgfsEH1YLYZ7XCs76+TtRTt+GK1GI8lcfS8rJGJyo4Csvik\nSS616az5MGbFBeTZIIM3jc9tAExy6GQ6rxpk7fIGEV8iTT4IjjBS9dmzREgKntHa\nAyWfsqf/C/8BobEH1npHSenX7/G+hm4sNhTY7xLEBpjlRtIX6yNH9nop9wqI1xZ8\nk6IsNFWOA99/0GJuqEj1BAzV6UxHOJPXlVYNPPTvAQKBgQDOdAOeh1sJlA8/TPxI\noIAV/p8DhKbfOqyOd7gg9Bpxsa5Oc9ALzKcu9CmgDiHtyUI1Lomq8UuTjxIEJOUB\nC+0CjxxPyhhGxtLzhcYL91VNCupe48+/fWKYXbK/M8qpQBr8BHOJWjKt1w30a5vf\nodRjoMg7IQgt34Gfgy0nJcUAwQKBgQC49TwU9DU+wUiAPbs62w6APaIAXKvjPNuB\nMoYbgSupIeiIRULC34Hd+G8ORUmXKhbPoRPPqc3cM78iVy/kJChkBsDJvWu1hT1W\nJ0Shx4qqXb8iwlABfEMcDe+JYmsfVpzy0Qp6kMViUkLaYpRiRGUmy9jigYEjbQAT\n5N0gd9FEhwKBgQC8LdL+tLGuUV50fF+Yc3NMmQGn20mfP4P5d/ZFUzqnVyViLP39\nQ1U/3x3x3e/fJgtLHlgtkDMrFMV/MYHrKkumgXt03uix2ph9j/ms/oyp5MEsLMo3\n6Lnt17oNvc+D5gKyo/wLvkNjYRo/J7a0aHWHOg5Ilxs1dPxZwN9vR2YCAQKBgFyC\nNBHa70K7E9MojRvr8r3LldqOf16B0tw09ASPv9GxZwe5dKHZfrASESHXH+6em5gv\n3aPRL2jC7Qd1CjwWpakaA5Ujy9qXkM0liNtN3ZpGl1IAVFnZ2AsRIUzaz+91t7xv\nN8mD3WXG9S8bfVIFGX6lGI557ahVXWOV5c/WffHDAoGAI377aup4O9dKVdmtGJhk\n0ig0wtLEh1+Dd93Si+oGNwhi8q1vUNhInqJjx/K4igx46hDxKyAOH9AJ25jJn3oa\neG8wFRhNN9o+s8QHXU4RHSGcHvU9Z7A5/z6MhRV8mlEnkHZ1+fuO+iLJjiOgu9dO\npkB8D0lGiatbMkx3UwNuLE4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-34yec@thinkxcloud.iam.gserviceaccount.com",
+  "client_id": "116191618375991049967",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-34yec%40thinkxcloud.iam.gserviceaccount.com"
+}
